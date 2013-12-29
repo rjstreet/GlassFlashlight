@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Glass Flashlight</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="flashlight_screen_content">Flashlight\nToggled</string>
+    <string name="flashlight_livecard_content">Flashlight\nActive</string>
+
+    <string name="title_activity_voicedemo">Flashlight</string>
+
+    <!--  VoiceDemoLocalService  -->
+    <string name="flashlight_localservice_started">Flashlight Service started.</string>
+
+    <!--  For voice input  -->
+    <string name="flashlight_voice_trigger">flashlight</string>
+</resources>
